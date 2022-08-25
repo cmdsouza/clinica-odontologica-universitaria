@@ -1,2 +1,6 @@
-# clinia-odontologica-universitaria
- 
+# Clínica odontológica universitária
+
+O sistema construído tem por finalidade facilitar e informatizar os dados provenientes dos pacientes atendidos pela clínica-escola de uma faculdade particular de Vitória, no Espírito Santo. Por questões de segurança e limitação de acesso aos dados, foram definidos cinco tipos de atribuições de funcionalidade no sistemas. Os papéis são: Aluno Geral (login e senha padrão para todos os alunos), Aluno Restrito (login através do  ID e senha), Professor, Esterilização, Recepção e Administrador. Suas atribuições serão melhor exemplificadas ao longo da apresentação dos módulos do sistema, que por sua vez podem ser divididas em três grandes módulos:
+- Módulo “Controle de Consultas”: engloba ações relacionadas ao cadastro de informações relacionadas aos colaboradores da clínica, alunos e pacientes, bem como a inserção e impressão de informações relacionadas às consultas realizadas.
+- Módulo “Controle de Estoque”: incorpora todas as ações relacionadas ao cadastro e movimentação dos bens disponibilizados pela clínica aos alunos.
+- Módulo “Controle de Esterilização”: composto por ações de criação e movimentação de pacotes de esterilização entre os alunos e o setor de esterilização da faculdade.
